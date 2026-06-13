@@ -6,8 +6,8 @@
 
 # 🎨 面向 AI Agent 的多平台 AIGC 内容生成技能生态
 
-[![Repos](https://img.shields.io/badge/Repos-0-blue?style=flat-square)](#)
-[![SKILL.md](https://img.shields.io/badge/SKILL.md-0+-green?style=flat-square)](#)
+[![Repos](https://img.shields.io/badge/Repos-8-blue?style=flat-square)](#)
+[![SKILL.md](https://img.shields.io/badge/SKILL.md-34-green?style=flat-square)](#)
 [![License](https://img.shields.io/badge/License-Apache%202.0-orange?style=flat-square)](LICENSE)
 [![Spec](https://img.shields.io/badge/Spec-Agent_Skills-purple?style=flat-square)](https://agentskills.io/)
 
@@ -27,18 +27,18 @@
 
 ---
 
-## 📦 技能分类
+## 📦 平台技能仓库
 
-| 分类 | 仓库数 | 说明 |
-|------|--------|------|
-| 🎨 **图像生成** | - | Stable Diffusion, Midjourney, DALL·E, ComfyUI, SDXL 等 |
-| ✍️ **文本创作** | - | LLM 写作、翻译、摘要、文案、代码生成等 |
-| 🎵 **音频合成** | - | TTS、音乐生成、音效合成、语音克隆等 |
-| 🎬 **视频创作** | - | 视频生成、数字人、动画制作、视频编辑等 |
-| 🏗️ **3D 生成** | - | 3D 模型生成、纹理合成、场景构建等 |
-| 🎭 **多模态融合** | - | 图生文、文生图、跨模态检索、多模态对话等 |
-| 🔧 **工具与平台** | - | HuggingFace, Replicate, Runway, Civitai 等平台技能 |
-| 📐 **工程化交付** | - | AIGC Pipeline、模型部署、推理优化、质量评估等 |
+| 平台 | 仓库 | 技能数 | 说明 |
+|------|------|--------|------|
+| 🎨 **即梦 (Jimeng)** | [jimeng-skills](https://github.com/full-aigc-skills/jimeng-skills) | 12 | 文生图、图生图、文生视频、图生视频，CLI + Prompt 双通道 |
+| 🎬 **可灵 (Kling)** | [kling-skills](https://github.com/full-aigc-skills/kling-skills) | 2 | 文生视频、图生视频提示词工程，涵盖戏剧结构、镜头语言 |
+| 🧠 **智谱 (Zhipu)** | [zhipu-skills](https://github.com/full-aigc-skills/zhipu-skills) | 8 | 文本生成、图像生成、视频生成、语音合成、OCR、VLM、Embedding |
+| 🎵 **MiniMax** | [minimax-skills](https://github.com/full-aigc-skills/minimax-skills) | 3 | 文本、图像、视频、语音、音乐生成，多模态工具集 |
+| 🤖 **扣子 (Coze)** | [coze-skills](https://github.com/full-aigc-skills/coze-skills) | 6 | ASR 语音识别、TTS 语音合成、图像生成、声音克隆、网页抓取搜索 |
+| 🐦 **小云雀 (Pippit)** | [pippit-skills](https://github.com/full-aigc-skills/pippit-skills) | 1 | 文生图、文生视频、图生视频、风格转换、短剧MV生成 |
+| 🎥 **Remotion** | [remotion-skills](https://github.com/full-aigc-skills/remotion-skills) | 1 | React 编程式视频创作，动画、渲染、音频合成 |
+| 📸 **证件照 (ID Photo)** | [id-photo-skills](https://github.com/full-aigc-skills/id-photo-skills) | 1 | 智能抠图、背景替换、预设尺寸，基于 HivisionIDPhotos |
 
 ---
 
