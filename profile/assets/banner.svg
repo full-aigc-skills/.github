@@ -16,12 +16,12 @@
     FULL · AIGC · SKILLS
   </text>
   <text x="400" y="88" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#94a3b8" letter-spacing="4">
-    AI CODING AGENT SKILLS ECOSYSTEM
+    AI GENERATED CONTENT SKILLS ECOSYSTEM
   </text>
   <rect x="140" y="110" width="520" height="1" fill="#334155" opacity="0.6"/>
   <g transform="translate(400,140)" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="11">
     <text fill="#64748b">
-      <tspan font-weight="700" fill="#f59e0b">AIGC</tspan> · <tspan font-weight="700" fill="#ef4444">Skills</tspan> · <tspan font-weight="700" fill="#8b5cf6">Multi-Platform</tspan> · <tspan font-weight="700" fill="#10b981">Agent Skills</tspan> Spec
+      <tspan font-weight="700" fill="#f59e0b">文生文</tspan> · <tspan font-weight="700" fill="#ef4444">文生图</tspan> · <tspan font-weight="700" fill="#8b5cf6">文生音频</tspan> · <tspan font-weight="700" fill="#10b981">文生视频</tspan> · <tspan font-weight="700" fill="#f59e0b">3D</tspan>生成
     </text>
   </g>
 </svg>
