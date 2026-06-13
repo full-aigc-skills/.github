@@ -4,7 +4,7 @@
 
 <img src="./assets/banner.svg" alt="Full-AIGC-Skills Banner" width="100%" />
 
-# 🎨 面向 AI Agent 的全栈 AIGC 内容生成技能生态
+# 🎨 面向 AI Agent 的多平台 AIGC 内容生成技能生态
 
 [![Repos](https://img.shields.io/badge/Repos-0-blue?style=flat-square)](#)
 [![SKILL.md](https://img.shields.io/badge/SKILL.md-0+-green?style=flat-square)](#)
@@ -17,7 +17,7 @@
 
 ## 🧭 关于本组织
 
-**Full-AIGC-Skills** 是一个面向 AI Agent 的全栈 AIGC（AI Generated Content）内容生成技能生态，涵盖**文本生成、图像生成、音频合成、视频创作、3D 建模、多模态融合**等 AIGC 核心领域。
+**Full-AIGC-Skills** 是一个面向 AI Agent 的多平台 AIGC（AI Generated Content）内容生成技能生态，涵盖**文本生成、图像生成、音频合成、视频创作、3D 建模、多模态融合**等 AIGC 核心领域。
 
 每个 Skill 遵循 [Agent Skills 规范](https://agentskills.io/)，以 `SKILL.md` 为载体，覆盖从**提示词工程**到**内容生成**到**后期处理**的完整 AIGC 内容创作工作流。
 
