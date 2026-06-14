@@ -6,8 +6,8 @@
 
 # 🎨 面向 AI Agent 的多平台 AIGC 内容生成技能生态
 
-[![Repos](https://img.shields.io/badge/Repos-8-blue?style=flat-square)](#)
-[![SKILL.md](https://img.shields.io/badge/SKILL.md-34-green?style=flat-square)](#)
+[![Repos](https://img.shields.io/badge/Repos-10-blue?style=flat-square)](#)
+[![SKILL.md](https://img.shields.io/badge/SKILL.md-56-green?style=flat-square)](#)
 [![License](https://img.shields.io/badge/License-Apache%202.0-orange?style=flat-square)](LICENSE)
 [![Spec](https://img.shields.io/badge/Spec-Agent_Skills-purple?style=flat-square)](https://agentskills.io/)
 
@@ -39,6 +39,8 @@
 | 🐦 **小云雀 (Pippit)** | [pippit-skills](https://github.com/full-aigc-skills/pippit-skills) | 1 | 文生图、文生视频、图生视频、风格转换、短剧MV生成 |
 | 🎥 **Remotion** | [remotion-skills](https://github.com/full-aigc-skills/remotion-skills) | 1 | React 编程式视频创作，动画、渲染、音频合成 |
 | 📸 **证件照 (ID Photo)** | [id-photo-skills](https://github.com/full-aigc-skills/id-photo-skills) | 1 | 智能抠图、背景替换、预设尺寸，基于 HivisionIDPhotos |
+| 🌟 **Baoyu 精选** | [baoyu-skills](https://github.com/JimLiu/baoyu-skills) | 21 | Baoyu 精选 AI Agent Skills（图像、视频、音频、图表等） |
+| 📊 **ProcessOn** | [processon-skills](https://github.com/processonai/processon-skills) | 3 | 流程图生成、思维导图生成、文档转思维导图 |
 
 ---
 
