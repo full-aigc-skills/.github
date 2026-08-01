@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Full-AIGC-Skills Banner" width="100%" />
+<img src="./assets/logo-512.png" alt="Full-AIGC-Skills Logo" width="220" />
 
 # 🎨 面向 AI Agent 的多平台 AIGC 内容生成技能生态
 
