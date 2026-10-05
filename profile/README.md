@@ -13,10 +13,27 @@
 
 [![Repos](https://img.shields.io/badge/Repos-10-blue?style=flat-square)](#)
 [![SKILL.md](https://img.shields.io/badge/SKILL.md-56-green?style=flat-square)](#)
-[![License](https://img.shields.io/badge/License-Apache%202.0-orange?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-orange?style=flat-square)](../LICENSE)
 [![Spec](https://img.shields.io/badge/Spec-Agent_Skills-purple?style=flat-square)](https://agentskills.io/)
 
 </div>
+
+---
+
+<!-- ecosystem-navigation:start -->
+
+## 生态导航
+
+按当前任务选择入口：技能提供可复用的知识与操作指引，插件连接工具与工作流。各项目可以独立使用，按需安装即可。
+
+| 方向 | 适用任务 | 目录与安装 | 组织 |
+| --- | --- | --- | --- |
+| Full Stack Skills | 软件开发、架构设计、测试与运维 | [PartMe.AI / full-stack-skills](https://github.com/partme-ai/full-stack-skills) | [full-stack-skills](https://github.com/full-stack-skills) |
+| Full AIGC Skills | 图像、视频、音频等内容创作 | [PartMe.AI / full-aigc-skills](https://github.com/partme-ai/full-aigc-skills) | [full-aigc-skills](https://github.com/full-aigc-skills) |
+| Full Stack Plugins | 研发与运维的工具集成和工作流 | [PartMe.AI / full-stack-plugins](https://github.com/partme-ai/full-stack-plugins) | [full-stack-plugins](https://github.com/full-stack-plugins) |
+| Full AIGC Plugins | 内容制作的工具集成和生成工作流 | [PartMe.AI / full-aigc-plugins](https://github.com/partme-ai/full-aigc-plugins) | [full-aigc-plugins](https://github.com/full-aigc-plugins) |
+
+<!-- ecosystem-navigation:end -->
 
 ---
 
@@ -36,7 +53,7 @@
 
 | 平台 | 仓库 | 技能数 | 说明 |
 |------|------|--------|------|
-| 🎨 **即梦 (Jimeng)** | [jimeng-skills](https://github.com/full-aigc-skills/jimeng-skills) | 12 | 文生图、图生图、文生视频、图生视频，CLI + Prompt 双通道 |
+| 🎨 **即梦 (Jimeng)** | [dreamina-skills](https://github.com/full-aigc-skills/dreamina-skills) | 36 | 文生图、图生图、文生视频、图生视频，CLI + Prompt 双通道 |
 | 🎬 **可灵 (Kling)** | [kling-skills](https://github.com/full-aigc-skills/kling-skills) | 2 | 文生视频、图生视频提示词工程，涵盖戏剧结构、镜头语言 |
 | 🧠 **智谱 (Zhipu)** | [zhipu-skills](https://github.com/full-aigc-skills/zhipu-skills) | 8 | 文本生成、图像生成、视频生成、语音合成、OCR、VLM、Embedding |
 | 🎵 **MiniMax** | [minimax-skills](https://github.com/full-aigc-skills/minimax-skills) | 3 | 文本、图像、视频、语音、音乐生成，多模态工具集 |
@@ -67,7 +84,7 @@ git clone https://github.com/full-aigc-skills/<skill-repo>.git
 ## 📁 Skill 结构规范
 
 ```
-skills/<group>-skills/<skill>/
+skills/<skill>/
 ├── SKILL.md      # 必需：技能定义文件
 ├── examples/     # 可选：示例
 ├── references/   # 可选：参考资料
@@ -92,7 +109,7 @@ skills/<group>-skills/<skill>/
 
 ## 📄 许可协议
 
-本组织下所有项目均采用 [Apache 2.0](LICENSE) 开源许可协议。
+本组织下所有项目均采用 [Apache 2.0](../LICENSE) 开源许可协议。
 
 ---
 
